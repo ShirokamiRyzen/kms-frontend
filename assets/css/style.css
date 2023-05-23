@@ -19,7 +19,7 @@
     z-index: -1;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 240px) {
     #background-video { display: none; }
     body {
       background: url("../media/march.mp4") no-repeat;
@@ -89,7 +89,7 @@
     font-size: 20pt;
     padding: 16px;
     width: 500px;
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 .button:hover {
     opacity: 0.7;
